@@ -15,12 +15,4 @@ print('Hola mundo!')
 print('Adios')
 print('Adios')
 
-
-#HOLA SOY ADRI
-# Pero puedo fumar o no?
-#Walid a tu pais
-
-
-
-
-#Adrian Cantalapiedra tiene muchas amigas
+#Hola

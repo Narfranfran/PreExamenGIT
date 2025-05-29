@@ -8,3 +8,5 @@ print('Hola mundo!')
     git remote add origin "enlace del repositorio"
     git push origin master (master=nombre rama principal)
 '''
+
+#Hola soy Adrian Castro!11!1! :p 

@@ -12,13 +12,8 @@ print('Hola mundo!')
 #Hola soy Adrian Castro!
 
 print('Adios')
+print('Adios')
 
 
-
-
-
-
-
-
-
-#CASTRO QUIERE FUMAR
+#HOLA SOY ADRI
+# Pero puedo fumar o no?

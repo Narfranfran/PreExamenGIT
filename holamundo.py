@@ -12,3 +12,13 @@ print('Hola mundo!')
 #Hola soy Adrian Castro!
 
 print('Adios')
+
+
+
+
+
+
+
+
+
+#CASTRO QUIERE FUMAR
